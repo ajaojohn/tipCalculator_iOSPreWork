@@ -29,11 +29,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/a/9r8SlGs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Simulator Screen Recording - iPhone 13 Pro - 2021-12-07 at 23 44 42](https://user-images.githubusercontent.com/52088990/145150844-24308bda-9691-4fb4-87a9-21e97bf87634.gif)
 
-[Imgur](https://imgur.com/UUnLYaZ)
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
